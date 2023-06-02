@@ -1,2 +1,2 @@
-# ThesisJurg
-Master Thesis MA - Jurg Jacobs
+# Master Thesis MA - Jurg Jacobs
+Welcome to my Github page of my Master Thesis MA. In this Github you can find my R & Python scripts that I used to collect and operationalize my data in the folder Data_collection_operationalization. You can also find my datasets in the folder Datasets, which are divided in Raw, Cleaned and Final data. In the Analysis folder, you can find my R scripts for performing the statistical analysis of my study. 
